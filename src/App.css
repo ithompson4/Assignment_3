@@ -1,0 +1,15 @@
+.app {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-color: #f5f2f6;
+    height: 100%;
+  }
+
+  .navbar {
+    background-color: #cc1881 !important;
+  }
+
+  .container {
+    margin-top: 50px;
+  }

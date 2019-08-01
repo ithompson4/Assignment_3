@@ -1,0 +1,23 @@
+.cardLink {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000066;
+    text-shadow: 1px 1px #4d4dff;
+}
+
+ .cardLink:hover,
+ .cardLink:active,
+ .cardLink:visited,
+ .cardLink:link  {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.card {
+    box-shadow: 0 1px 4px #ff00ff, 0 1px 3px #00ff00;
+    opacity: 0.9;
+}
+
+.card:hover{
+    box-shadow: 0 14px 20px #6600cc, 0 12px 10px #00ff00;
+}
